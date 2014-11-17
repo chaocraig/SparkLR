@@ -1,4 +1,4 @@
 SparkLR
 =======
 
-Logistic Regression on Spark
+Linear Regression on Spark
